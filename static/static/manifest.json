@@ -1,0 +1,11 @@
+{
+  "name": "AMPHIBIA - Environmental Control",
+  "short_name": "AMPHIBIA",
+  "description": "Vivarium Environmental Control Simulator",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e1714",
+  "theme_color": "#0e1714",
+  "lang": "ko"
+}
